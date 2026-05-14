@@ -1,0 +1,7 @@
+HELP;
+show procedures in syscs_util;
+show roles;
+show settable_roles;
+Qo�Ü�
+~
+

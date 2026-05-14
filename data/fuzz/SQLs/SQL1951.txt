@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show enabled_roles;
+show settable_roles;
+show schemas;
+show synonyms;
+

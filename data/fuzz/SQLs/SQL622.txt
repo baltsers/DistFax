@@ -1,0 +1,8 @@
+HELP;
+show indexes from firsttable;
+show roles;
+show settable_roles;
+show schemas;
+؉
+�{
+

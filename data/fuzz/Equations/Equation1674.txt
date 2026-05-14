@@ -1,0 +1,1 @@
+77 multi -42 multi -28 add 30 multi 28

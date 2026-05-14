@@ -1,0 +1,4 @@
+entriesN
+show
+retrieveN -key test
+

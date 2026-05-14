@@ -1,0 +1,8 @@
+HELP;
+show roles;
+show settable_roles;
+show schemas;
+show synonyms;
+zu959
+���G4�oh�
+

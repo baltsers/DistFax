@@ -1,0 +1,5 @@
+get /zk-temp
+get /zk-temp2
+stat /zk-temp
+stat /zk-temp2
+

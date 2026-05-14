@@ -1,0 +1,5 @@
+show roles;
+show settable_roles;
+show synonyms;
+�C����k�
+

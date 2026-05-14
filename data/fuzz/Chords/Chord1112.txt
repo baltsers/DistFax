@@ -1,0 +1,5 @@
+entriesN
+leaveN
+retrieveN -key test
+{�?��Oだ�
+

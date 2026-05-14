@@ -1,0 +1,4 @@
+entries -node mypeer5
+retrieve -node mypeer1 -key test
+�v�3��
+

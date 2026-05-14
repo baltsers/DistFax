@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show indexes from firsttable;
+show synonyms;
+694145044
+�;(�
+

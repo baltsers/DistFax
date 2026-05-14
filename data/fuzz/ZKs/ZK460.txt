@@ -1,0 +1,5 @@
+get /zk-temp
+set /zk-temp 789
+230
+����
+

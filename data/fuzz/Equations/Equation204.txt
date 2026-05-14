@@ -1,0 +1,1 @@
+12 add 22 multi 23 multi 3 add 39 add -48 add -44 multi 35 minus 31 add -5

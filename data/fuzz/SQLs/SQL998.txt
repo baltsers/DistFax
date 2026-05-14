@@ -1,0 +1,5 @@
+show indexes from firsttable;
+show roles;
+show synonyms;
+she5269858
+

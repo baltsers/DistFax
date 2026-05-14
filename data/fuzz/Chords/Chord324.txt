@@ -1,0 +1,8 @@
+entries -node mypeer5
+refsN
+leaveN
+show
+retrieve -node mypeer1 -key test
+retrieveN -key test
+���c��k���
+

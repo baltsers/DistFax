@@ -1,0 +1,1 @@
+90 multi 23 add -18 add -25 add -21 add 1984 add -1994 multi 27 add -18 divi -4 divi 48 divi 24 add -41 minus 22 add -39

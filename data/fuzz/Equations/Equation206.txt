@@ -1,0 +1,1 @@
+12 add 42 multi -15 multi -20 multi 32 multi 12 add 21 divi -25 divi -46 dtogdngu0526

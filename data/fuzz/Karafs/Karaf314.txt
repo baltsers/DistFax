@@ -1,0 +1,9 @@
+admin:destroy test
+admin:list
+admin:create --help
+config:edit foo.bar
+config:list
+config:proplist
+502420
+*BZ+�v�X�
+

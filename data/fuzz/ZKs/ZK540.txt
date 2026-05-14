@@ -1,0 +1,4 @@
+ls /zk-temp
+rmr /zk-temp
+ypsulbiz
+

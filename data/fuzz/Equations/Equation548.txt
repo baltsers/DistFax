@@ -1,0 +1,1 @@
+6920 multi -5 minus 12 minus -25 multi 14 divi 3 divi -47 divi 8 divi 1

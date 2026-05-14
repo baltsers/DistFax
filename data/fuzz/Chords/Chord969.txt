@@ -1,0 +1,3 @@
+refsN
+retrieve -node mypeer1 -key test
+

@@ -1,0 +1,5 @@
+entries -node mypeer5
+show
+retrieve -node mypeer1 -key test
+dm193472
+

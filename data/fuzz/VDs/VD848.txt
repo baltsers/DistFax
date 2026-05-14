@@ -1,0 +1,9 @@
+put 'hello2' 'world2'
+get 'hello'
+getall 'hello' 'hello2'
+preflist 'hello'
+preflist 'hello2'
+getmetadata
+y2960
+�)��&��P
+

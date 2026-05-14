@@ -1,0 +1,4 @@
+show settable_roles;
+show synonyms;
+X�iS
+

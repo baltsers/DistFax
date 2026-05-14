@@ -1,0 +1,5 @@
+admin:destroy test
+admin:create --help
+config:list
+H
+

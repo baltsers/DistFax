@@ -1,0 +1,6 @@
+admin:destroy test
+admin:list
+config:propset
+display-exception
+fasx753
+

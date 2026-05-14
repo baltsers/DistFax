@@ -1,0 +1,4 @@
+put 'hello2' 'world2'
+preflist 'hello2'
+getmetadata
+

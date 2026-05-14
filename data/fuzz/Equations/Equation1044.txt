@@ -1,0 +1,1 @@
+8 multi -22 add 27 divi 40 multi 8 multi 25 minus -8 divi -13 divi -8 divi 27

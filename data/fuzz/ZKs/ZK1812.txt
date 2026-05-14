@@ -1,0 +1,5 @@
+ls /zk-temp
+get /zk-temp
+get /zk-temp2
+rmr /zk-temp
+

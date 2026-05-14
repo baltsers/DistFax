@@ -1,0 +1,6 @@
+admin:destroy test
+admin:list
+admin:create --help
+display-exception
+~�WC|d�
+

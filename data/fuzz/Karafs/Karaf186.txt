@@ -1,0 +1,4 @@
+admin:create --help
+config:edit foo.bar
+config:proplist
+

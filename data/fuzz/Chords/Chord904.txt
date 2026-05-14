@@ -1,0 +1,4 @@
+retrieve -node mypeer1 -key test
+mqwjg500
+�#'�r[v�
+

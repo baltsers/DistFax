@@ -1,0 +1,7 @@
+HELP;
+show indexes from firsttable;
+show roles;
+show schemas;
+show synonyms;
+p95
+

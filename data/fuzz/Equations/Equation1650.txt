@@ -1,0 +1,1 @@
+12 add -327219 multi 36 minus 2 minus -1 multi 0 divi 24 minus -38 add 10 divi 49 add -22

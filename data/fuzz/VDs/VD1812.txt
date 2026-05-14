@@ -1,0 +1,5 @@
+get 'hello'
+get 'hello2'
+getall 'hello2'
+Y�jE
+

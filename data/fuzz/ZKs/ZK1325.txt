@@ -1,0 +1,5 @@
+ls /zk-temp
+ls /zk-temp2
+stat /zk-temp
+stat /zk-temp2
+

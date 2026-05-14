@@ -1,0 +1,6 @@
+entriesN
+leaveN
+show
+retrieveN -key test
+�2����܆
+

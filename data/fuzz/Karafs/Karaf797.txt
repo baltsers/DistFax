@@ -1,0 +1,6 @@
+admin:list
+config:edit foo.bar
+config:list
+config:propset
+ywbrnzeyk55011461
+

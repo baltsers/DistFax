@@ -1,0 +1,1 @@
+java -cp ../DistFax.jar CountExecutionTime diff0Available.txt timecostclientDT3_

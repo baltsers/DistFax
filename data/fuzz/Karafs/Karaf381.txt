@@ -1,0 +1,5 @@
+admin:destroy test
+config:proplist
+display-exception
+7F�Y�[_��
+

@@ -1,0 +1,7 @@
+HELP;
+show indexes from firsttable;
+show enabled_roles;
+show schemas;
+show synonyms;
+���I��
+

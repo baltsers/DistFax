@@ -1,0 +1,3 @@
+admin:create --help
+rtqqyi2
+

@@ -1,0 +1,3 @@
+show connections;
+show roles;
+

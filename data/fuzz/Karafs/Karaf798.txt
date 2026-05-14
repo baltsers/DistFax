@@ -1,0 +1,10 @@
+admin:destroy test
+admin:list
+admin:create --help
+config:proplist
+config:propset
+config:update
+display-exception
+u6502695
+�
+

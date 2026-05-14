@@ -1,0 +1,5 @@
+getall 'hello'
+getall 'hello' 'hello2'
+preflist 'hello'
+preflist 'hello2'
+

@@ -1,0 +1,1 @@
+19 multi -2 add -17 minus 24

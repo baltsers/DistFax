@@ -1,0 +1,6 @@
+show connections;
+show indexes from firsttable;
+show roles;
+show enabled_roles;
+show settable_roles;
+

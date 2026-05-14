@@ -1,0 +1,5 @@
+show connections;
+show indexes from firsttable;
+show roles;
+rhcndh18
+

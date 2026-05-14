@@ -1,0 +1,7 @@
+admin:destroy test
+config:edit foo.bar
+config:list
+config:update
+display-exception
+�;ҟM�
+

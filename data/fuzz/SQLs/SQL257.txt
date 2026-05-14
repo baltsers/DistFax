@@ -1,0 +1,4 @@
+show connections;
+show enabled_roles;
+9`V�8��L\D
+

@@ -1,0 +1,7 @@
+admin:destroy test
+admin:create --help
+config:proplist
+config:update
+display-exception
+nssjd8
+

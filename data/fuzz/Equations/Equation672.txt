@@ -1,0 +1,1 @@
+10 add 42 minus -20 minus -19 minus 337339 multi 25 minus 32 minus 14 divi 47

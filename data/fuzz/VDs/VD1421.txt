@@ -1,0 +1,4 @@
+get 'hello'
+getall 'hello2'
+preflist 'hello'
+

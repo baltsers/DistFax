@@ -1,0 +1,7 @@
+entries -node mypeer5
+refsN
+leaveN
+retrieve -node mypeer1 -key test
+idftf
+cv�!�
+

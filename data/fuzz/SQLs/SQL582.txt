@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show roles;
+show schemas;
+show synonyms;
+mv_:f��
+

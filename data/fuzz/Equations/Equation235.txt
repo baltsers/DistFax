@@ -1,0 +1,1 @@
+10 add 45 multi 49 minus 10 minus 10 minus -9 multi 22

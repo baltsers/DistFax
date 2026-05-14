@@ -1,0 +1,5 @@
+show indexes from firsttable;
+show settable_roles;
+show synonyms;
+ayjzcbl3174442
+

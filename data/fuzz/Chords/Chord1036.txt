@@ -1,0 +1,6 @@
+create -names mypeer1_mypeer2 -bootstraps mypeer0
+refsN
+show
+retrieveN -key test
+yugzon993
+

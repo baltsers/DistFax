@@ -1,0 +1,4 @@
+show enabled_roles;
+show synonyms;
+b7927
+

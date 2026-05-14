@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show indexes from firsttable;
+show enabled_roles;
+show schemas;
+����2[���
+

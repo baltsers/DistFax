@@ -1,0 +1,8 @@
+admin:destroy test
+config:edit foo.bar
+config:proplist
+config:propset
+config:update
+display-exception
+Ⱥ
+

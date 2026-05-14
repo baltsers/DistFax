@@ -1,0 +1,5 @@
+HELP;
+show settable_roles;
+show synonyms;
+tmuziut702084475
+

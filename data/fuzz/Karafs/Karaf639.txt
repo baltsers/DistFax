@@ -1,0 +1,8 @@
+admin:destroy test
+admin:list
+config:edit foo.bar
+config:propset
+config:update
+display-exception
+lmng710875
+

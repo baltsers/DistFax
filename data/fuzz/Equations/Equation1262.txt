@@ -1,0 +1,1 @@
+50 divi 0 divi -10 add 18 minus 4 minus -18 multi 49

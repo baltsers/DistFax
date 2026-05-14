@@ -1,0 +1,2 @@
+getall 'hello2'
+

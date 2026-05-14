@@ -1,0 +1,5 @@
+admin:create --help
+config:list
+display-exception
+.�eB
+

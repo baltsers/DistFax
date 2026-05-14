@@ -1,0 +1,6 @@
+getall 'hello'
+getall 'hello' 'hello2'
+preflist 'hello'
+getmetadata
+njtw8
+

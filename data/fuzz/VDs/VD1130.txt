@@ -1,0 +1,4 @@
+getall 'hello2'
+getmetadata
+64
+

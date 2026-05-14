@@ -1,0 +1,5 @@
+entriesN
+show
+retrieve -node mypeer1 -key test
+7!�%��M
+

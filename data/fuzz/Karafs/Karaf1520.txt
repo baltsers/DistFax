@@ -1,0 +1,4 @@
+admin:destroy test
+display-exception
+cqnrbvk6867655
+

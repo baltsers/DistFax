@@ -1,0 +1,3 @@
+ls /zk-temp
+stat /zk-temp
+

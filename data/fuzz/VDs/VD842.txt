@@ -1,0 +1,7 @@
+get 'hello'
+get 'hello2'
+getall 'hello2'
+preflist 'hello2'
+getmetadata
+� p(
+

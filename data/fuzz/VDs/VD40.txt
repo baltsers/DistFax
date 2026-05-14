@@ -1,0 +1,8 @@
+put 'hello2' 'world2'
+get 'hello'
+getall 'hello'
+getall 'hello' 'hello2'
+getmetadata
+mjayrjsm76724776
+F_2hC?a
+

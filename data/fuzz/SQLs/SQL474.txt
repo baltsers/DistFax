@@ -1,0 +1,3 @@
+HELP;
+show enabled_roles;
+

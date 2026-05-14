@@ -1,0 +1,6 @@
+getall 'hello2'
+preflist 'hello2'
+getmetadata
+xhpxmwd2
+�*�ܰ��
+

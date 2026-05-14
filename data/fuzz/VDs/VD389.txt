@@ -1,0 +1,7 @@
+get 'hello'
+get 'hello2'
+getall 'hello2'
+getall 'hello' 'hello2'
+getmetadata
+.A� �F;
+

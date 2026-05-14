@@ -1,0 +1,3 @@
+ls /zk-temp2
+gedrkp56130
+

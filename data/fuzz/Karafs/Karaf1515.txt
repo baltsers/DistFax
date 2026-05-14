@@ -1,0 +1,6 @@
+config:edit foo.bar
+config:list
+config:propset
+config:update
+i6
+

@@ -1,0 +1,1 @@
+50 multi 7 multi -44 multi -32 add -3319 multi 36 multi -32 add 44 divi 34 minus -22 divi 5 minus -13 divi 42 �*

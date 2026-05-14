@@ -1,0 +1,7 @@
+admin:list
+admin:create --help
+config:list
+config:proplist
+config:propset
+display-exception
+

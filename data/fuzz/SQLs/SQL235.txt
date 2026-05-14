@@ -1,0 +1,4 @@
+show indexes from firsttable;
+show settable_roles;
+��>
+

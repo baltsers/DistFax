@@ -1,0 +1,1 @@
+1 multi 1986 multi -2946 add -40 minus 0 multi 26 add 4 divi 16 divi 8 add 5 divi -18

@@ -1,0 +1,1 @@
+50 multi -37 add 40336 add -11 minus 13 divi 14 add 041 divi -24 divi 0 minus 14 multi 16 minus 32

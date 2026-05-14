@@ -1,0 +1,6 @@
+tickTime=2437 
+initLimit=70 
+syncLimit=23 
+dataDir=/tmp/zookeeper 
+clientPort=2181 
+

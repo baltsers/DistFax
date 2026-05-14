@@ -1,0 +1,4 @@
+show connections;
+show settable_roles;
+eaiudqpwj29316510
+

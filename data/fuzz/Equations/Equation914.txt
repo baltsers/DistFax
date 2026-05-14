@@ -1,0 +1,1 @@
+72 minus -14 multi 45 add 12

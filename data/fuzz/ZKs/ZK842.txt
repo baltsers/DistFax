@@ -1,0 +1,6 @@
+ls /zk-temp
+get /zk-temp
+set /zk-temp2 901
+rmr /zk-temp
+qc1257152
+

@@ -1,0 +1,1 @@
+8051 minus 3 divi 28 add 10 add -18 add 3365 multi -3 add 25 add 5 minus -13

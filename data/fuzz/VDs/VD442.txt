@@ -1,0 +1,4 @@
+getall 'hello'
+getall 'hello' 'hello2'
+getmetadata
+

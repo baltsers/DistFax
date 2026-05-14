@@ -1,0 +1,5 @@
+show indexes from firsttable;
+show schemas;
+show synonyms;
+axdj93230380
+

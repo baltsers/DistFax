@@ -1,0 +1,6 @@
+show connections;
+show roles;
+show settable_roles;
+show schemas;
+�J�zvw�W�
+

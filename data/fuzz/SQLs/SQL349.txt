@@ -1,0 +1,5 @@
+show connections;
+show enabled_roles;
+show settable_roles;
+_�4a��'.
+

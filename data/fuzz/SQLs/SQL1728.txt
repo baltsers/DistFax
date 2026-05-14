@@ -1,0 +1,7 @@
+show connections;
+show indexes from firsttable;
+show settable_roles;
+show schemas;
+show synonyms;
+fltsfe7588
+

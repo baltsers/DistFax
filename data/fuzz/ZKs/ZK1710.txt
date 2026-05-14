@@ -1,0 +1,4 @@
+set /zk-temp 789
+stat /zk-temp2
+4Xr�
+

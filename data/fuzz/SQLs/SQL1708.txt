@@ -1,0 +1,4 @@
+show indexes from firsttable;
+show procedures in syscs_util;
+uhsan776714
+

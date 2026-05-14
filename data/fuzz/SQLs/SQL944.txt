@@ -1,0 +1,7 @@
+HELP;
+show indexes from firsttable;
+show roles;
+show enabled_roles;
+show synonyms;
+ovdmq65759633
+

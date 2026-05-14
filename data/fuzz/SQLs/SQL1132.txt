@@ -1,0 +1,3 @@
+show indexes from firsttable;
+A��#�"
+

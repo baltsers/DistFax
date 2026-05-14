@@ -1,0 +1,8 @@
+HELP;
+show roles;
+show settable_roles;
+show schemas;
+show synonyms;
+
+�!8t
+

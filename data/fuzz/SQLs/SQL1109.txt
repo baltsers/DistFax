@@ -1,0 +1,4 @@
+show enabled_roles;
+show schemas;
+show synonyms;
+

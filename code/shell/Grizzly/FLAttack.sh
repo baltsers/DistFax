@@ -1,0 +1,52 @@
+#!/bin/bash
+if [ $# -lt 0 ];then
+	echo "Usage: $0 "
+	exit 1
+fi
+
+source ./gl_global.sh
+ROOT=/home/username
+MAINCP="$ROOT/DUA1.jar:$ROOT/FlowDistAttackSurface.jar:$ROOT/libs/soot-trunk.jar"
+
+SOOTCP=".:$JAVA_HOME/jre/lib/rt.jar:i$subjectloc/240:$subjectloc/java:$ROOT/FlowDistAttackSurface.jar"
+
+suffix="SourceSink"
+
+LOGDIR=out-DTInstr
+
+INDIR=$subjectloc/DTInstrumented
+OUTDIR=/tmp
+mkdir -p $OUTDIR
+rm source_1.txt -f
+rm sink_1.txt -f
+rm s*DiffClass.txt -f
+rm s*Pair.txt -f
+starttime=`date +%s%N | cut -b1-13`
+
+	#-allowphantom \
+   	#-duaverbose \
+	#-wrapTryCatch \
+	#-dumpJimple \
+	#-statUncaught \
+	#-perthread \
+	#-syncnio \
+	#-main-class $DRIVERCLASS \
+	#-entry:$DRIVERCLASS \
+	#-syncnio \
+	#-syncnio \
+	#-main-class $DRIVERCLASS \
+	#-entry:$DRIVERCLASS \
+java -Xmx100g -ea -cp ${MAINCP} FLOWDist.dtAttackSurfaceM \
+	$subjectloc/240 \
+	$subjectloc/java \
+#	 1> $logout 2> $logerr
+
+stoptime=`date +%s%N | cut -b1-13`
+echo "StaticAnalysisTime for $suffix elapsed: " `expr $stoptime - $starttime` milliseconds
+
+echo "Running finished."
+exit 0
+
+
+# hcai vim :set ts=4 tw=4 tws=4
+

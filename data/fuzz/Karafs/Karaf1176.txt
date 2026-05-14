@@ -1,0 +1,5 @@
+config:edit foo.bar
+config:propset
+config:update
+display-exception
+

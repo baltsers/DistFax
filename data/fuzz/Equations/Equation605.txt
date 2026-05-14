@@ -1,0 +1,1 @@
+3 add -28 minus -49 minus -3943 multi -31 multi 4 minus -20 divi 35

@@ -1,0 +1,9 @@
+HELP;
+show indexes from firsttable;
+show roles;
+show enabled_roles;
+show settable_roles;
+show schemas;
+1491836
+o�ͤ��'
+

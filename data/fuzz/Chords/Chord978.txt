@@ -1,0 +1,6 @@
+create -names mypeer1_mypeer2 -bootstraps mypeer0
+entriesN
+refsN
+leaveN
+retrieveN -key test
+

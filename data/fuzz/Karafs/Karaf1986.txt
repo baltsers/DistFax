@@ -1,0 +1,6 @@
+admin:create --help
+config:edit foo.bar
+config:proplist
+config:update
+o658535599
+

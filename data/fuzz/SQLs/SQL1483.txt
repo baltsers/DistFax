@@ -1,0 +1,4 @@
+show connections;
+show procedures in syscs_util;
+h�v
+

@@ -1,0 +1,8 @@
+HELP;
+show connections;
+show roles;
+show schemas;
+show synonyms;
+fjiast95
+ڑJ�ㅤ
+

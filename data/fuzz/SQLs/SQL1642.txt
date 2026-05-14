@@ -1,0 +1,4 @@
+show procedures in syscs_util;
+show enabled_roles;
+show synonyms;
+

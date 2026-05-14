@@ -1,0 +1,6 @@
+get /zk-temp2
+stat /zk-temp
+rmr /zk-temp
+lbo3
+8��D�j�/
+

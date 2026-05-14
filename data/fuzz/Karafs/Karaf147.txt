@@ -1,0 +1,4 @@
+admin:create --help
+config:list
+config:propset
+

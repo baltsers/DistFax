@@ -1,0 +1,6 @@
+get /zk-temp2
+stat /zk-temp2
+rmr /zk-temp
+nqfcq90
+����
+

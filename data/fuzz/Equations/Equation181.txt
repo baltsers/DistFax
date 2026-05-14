@@ -1,0 +1,1 @@
+6071 add 27 add 4 minus -46 minus 3 minus -2 multi 34 multi -4 divi 1896 divi 15 divi 2010 multi -36 minus -25 divi 31 divi 8 minus -38

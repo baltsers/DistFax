@@ -1,0 +1,6 @@
+show procedures in syscs_util;
+show enabled_roles;
+show settable_roles;
+show schemas;
+c57180978
+

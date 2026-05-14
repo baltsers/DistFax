@@ -1,0 +1,5 @@
+HELP;
+show connections;
+show indexes from firsttable;
+�RNP�Bx
+

@@ -1,0 +1,8 @@
+get 'hello'
+get 'hello2'
+getall 'hello2'
+getall 'hello' 'hello2'
+preflist 'hello'
+preflist 'hello2'
+getmetadata
+

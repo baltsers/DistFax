@@ -1,0 +1,4 @@
+show indexes from firsttable;
+show enabled_roles;
+83�	"6W
+

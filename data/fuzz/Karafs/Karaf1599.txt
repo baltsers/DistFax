@@ -1,0 +1,4 @@
+admin:destroy test
+admin:list
+y�����h]J
+

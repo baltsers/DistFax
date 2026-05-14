@@ -1,0 +1,9 @@
+put 'hello2' 'world2'
+get 'hello'
+get 'hello2'
+getall 'hello'
+getall 'hello2'
+getall 'hello' 'hello2'
+zuvufadg96467633
+�P����
+

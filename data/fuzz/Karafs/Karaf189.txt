@@ -1,0 +1,4 @@
+admin:list
+config:edit foo.bar
+����F�Ka�
+

@@ -1,0 +1,7 @@
+put 'hello2' 'world2'
+get 'hello'
+get 'hello2'
+getall 'hello'
+getall 'hello2'
+getmetadata
+

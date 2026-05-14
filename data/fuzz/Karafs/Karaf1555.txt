@@ -1,0 +1,8 @@
+admin:destroy test
+admin:list
+admin:create --help
+config:edit foo.bar
+config:proplist
+config:propset
+config:update
+

@@ -1,0 +1,6 @@
+HELP;
+show settable_roles;
+show schemas;
+show synonyms;
+zyg4571529
+

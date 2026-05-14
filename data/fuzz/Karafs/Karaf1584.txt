@@ -1,0 +1,8 @@
+admin:list
+config:edit foo.bar
+config:list
+config:propset
+config:update
+459967
+S�����mk
+

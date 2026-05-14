@@ -1,0 +1,1 @@
+32 add -11 minus -11 multi 34 multi -46 minus 19 multi -37 multi 32 minus 40

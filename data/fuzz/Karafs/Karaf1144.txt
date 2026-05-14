@@ -1,0 +1,10 @@
+admin:list
+admin:create --help
+config:edit foo.bar
+config:list
+config:proplist
+config:propset
+config:update
+display-exception
+fgsja
+

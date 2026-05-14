@@ -1,0 +1,7 @@
+admin:destroy test
+config:edit foo.bar
+config:list
+config:propset
+config:update
+6p_�Bk
+

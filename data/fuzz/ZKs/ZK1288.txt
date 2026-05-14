@@ -1,0 +1,5 @@
+set /zk-temp2 901
+stat /zk-temp
+bcs26486761
+@a+ 
+

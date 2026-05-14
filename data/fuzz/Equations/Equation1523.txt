@@ -1,0 +1,1 @@
+26 multi 2 add 27 multi -36 add 5 add 14 minus 17 divi 12 minus 0 add 19

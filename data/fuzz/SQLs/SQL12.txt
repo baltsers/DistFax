@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show procedures in syscs_util;
+show settable_roles;
+show synonyms;
+johuowdbq83181450
+

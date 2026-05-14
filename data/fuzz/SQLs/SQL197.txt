@@ -1,0 +1,3 @@
+show schemas;
+�d���Z
+

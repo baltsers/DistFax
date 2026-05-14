@@ -1,0 +1,6 @@
+admin:destroy test
+admin:list
+config:list
+config:update
+display-exception
+

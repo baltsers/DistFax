@@ -1,0 +1,1 @@
+26 multi 42 minus 20 add -23 add 3 add -15 add 18 minus 9 add -42

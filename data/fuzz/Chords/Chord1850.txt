@@ -1,0 +1,6 @@
+entries -node mypeer5
+refsN
+leaveN
+show
+retrieveN -key test
+

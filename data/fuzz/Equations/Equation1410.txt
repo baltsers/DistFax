@@ -1,0 +1,1 @@
+7 multi -12 add -28 add -44 minus -3 add -39 multi -22 add 10

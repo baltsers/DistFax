@@ -1,0 +1,3 @@
+show procedures in syscs_util;
+show synonyms;
+

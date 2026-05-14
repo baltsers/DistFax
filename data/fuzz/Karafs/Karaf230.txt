@@ -1,0 +1,5 @@
+admin:destroy test
+admin:create --help
+config:propset
+veq99510812
+

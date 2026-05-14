@@ -1,0 +1,5 @@
+entriesN
+refsN
+show
+retrieveN -key test
+

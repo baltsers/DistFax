@@ -1,0 +1,5 @@
+show connections;
+show roles;
+show synonyms;
+����k�
+

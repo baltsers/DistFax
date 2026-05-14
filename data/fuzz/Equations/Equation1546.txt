@@ -1,0 +1,1 @@
+32 minus -44 minus -44 multi 2 add 12 divi -22 minus 6 divi -49 divi -33 add 7

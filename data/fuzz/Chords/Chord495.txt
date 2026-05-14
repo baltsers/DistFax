@@ -1,0 +1,5 @@
+entriesN
+show
+retrieveN -key test
+bewt2610
+

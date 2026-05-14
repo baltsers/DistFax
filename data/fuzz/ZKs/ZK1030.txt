@@ -1,0 +1,4 @@
+stat /zk-temp2
+rmr /zk-temp
+sjfntdgzg59232
+

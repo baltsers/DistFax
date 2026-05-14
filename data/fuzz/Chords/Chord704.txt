@@ -1,0 +1,8 @@
+entriesN
+entries -node mypeer5
+leaveN
+retrieve -node mypeer1 -key test
+retrieveN -key test
+l040
+�+���3U�
+

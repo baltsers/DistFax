@@ -1,0 +1,6 @@
+entriesN
+refsN
+leaveN
+retrieveN -key test
+w6"��
+

@@ -1,0 +1,7 @@
+admin:destroy test
+config:proplist
+config:propset
+config:update
+display-exception
+ji745
+

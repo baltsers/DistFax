@@ -1,0 +1,1 @@
+75 add -12 minus -14 multi -8

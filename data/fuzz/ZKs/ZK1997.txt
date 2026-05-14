@@ -1,0 +1,4 @@
+ls /zk-temp
+get /zk-temp
+��o��
+

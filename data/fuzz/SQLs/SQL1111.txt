@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show indexes from firsttable;
+show settable_roles;
+show synonyms;
+��U�/*n�
+

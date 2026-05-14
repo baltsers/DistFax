@@ -1,0 +1,6 @@
+admin:destroy test
+config:proplist
+config:update
+display-exception
+k9��-�
+

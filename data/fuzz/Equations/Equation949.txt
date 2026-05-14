@@ -1,0 +1,1 @@
+40 multi -21 divi 2 multi 11 add -5 add 23 add 584 minus 2492 minus 36 add -16 multi 35 minus 40

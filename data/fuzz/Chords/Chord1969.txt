@@ -1,0 +1,4 @@
+show
+retrieveN -key test
+mjcwq138878869
+

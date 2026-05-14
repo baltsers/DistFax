@@ -1,0 +1,1 @@
+50 multi -5 multi 31 minus 39 add -25 add 41

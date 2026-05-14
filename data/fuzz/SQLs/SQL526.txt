@@ -1,0 +1,5 @@
+HELP;
+show connections;
+show roles;
+show settable_roles;
+

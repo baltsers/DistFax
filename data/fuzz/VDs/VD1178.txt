@@ -1,0 +1,5 @@
+put 'hello2' 'world2'
+getall 'hello'
+preflist 'hello'
+f��14�C��
+

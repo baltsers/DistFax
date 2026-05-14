@@ -1,0 +1,4 @@
+put 'hello2' 'world2'
+get 'hello2'
+getmetadata
+

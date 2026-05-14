@@ -1,0 +1,8 @@
+show indexes from firsttable;
+show procedures in syscs_util;
+show roles;
+show settable_roles;
+show schemas;
+gcg103739956
+��7��ڹ�
+

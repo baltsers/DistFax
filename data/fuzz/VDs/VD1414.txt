@@ -1,0 +1,7 @@
+get 'hello'
+getall 'hello'
+getall 'hello2'
+getall 'hello' 'hello2'
+getmetadata
+/&7��2�K
+

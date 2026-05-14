@@ -1,0 +1,4 @@
+get /zk-temp2
+set /zk-temp 789
+rmr /zk-temp
+

@@ -1,0 +1,1 @@
+3027 divi -20 multi -3 minus 40 divi 12 multi 23 divi -5 add 42

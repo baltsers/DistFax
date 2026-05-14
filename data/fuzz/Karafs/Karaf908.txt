@@ -1,0 +1,7 @@
+admin:destroy test
+config:list
+config:proplist
+config:propset
+display-exception
+vgeus382626804
+

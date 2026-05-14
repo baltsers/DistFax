@@ -1,0 +1,7 @@
+admin:list
+config:edit foo.bar
+config:proplist
+config:update
+display-exception
+6758
+

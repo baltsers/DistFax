@@ -1,0 +1,4 @@
+HELP;
+show settable_roles;
+show synonyms;
+

@@ -1,0 +1,6 @@
+show connections;
+show indexes from firsttable;
+show procedures in syscs_util;
+show enabled_roles;
+show settable_roles;
+

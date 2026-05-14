@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show indexes from firsttable;
+show roles;
+show synonyms;
+x7621568
+

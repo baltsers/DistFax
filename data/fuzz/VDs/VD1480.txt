@@ -1,0 +1,7 @@
+get 'hello'
+get 'hello2'
+getall 'hello'
+getall 'hello' 'hello2'
+getmetadata
+dpjoenbls9928359
+

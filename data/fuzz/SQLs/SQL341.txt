@@ -1,0 +1,5 @@
+HELP;
+show procedures in syscs_util;
+show settable_roles;
+show synonyms;
+

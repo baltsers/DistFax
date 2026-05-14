@@ -1,0 +1,7 @@
+admin:list
+admin:create --help
+config:edit foo.bar
+config:list
+config:update
+4�njY�P��
+

@@ -1,0 +1,4 @@
+config:edit foo.bar
+config:proplist
+c�ܘ|y
+

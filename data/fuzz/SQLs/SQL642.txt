@@ -1,0 +1,6 @@
+show connections;
+show procedures in syscs_util;
+show enabled_roles;
+show schemas;
+show synonyms;
+

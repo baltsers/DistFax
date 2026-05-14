@@ -1,0 +1,5 @@
+show enabled_roles;
+show settable_roles;
+show schemas;
+kuk397
+

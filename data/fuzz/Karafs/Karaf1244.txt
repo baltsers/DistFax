@@ -1,0 +1,8 @@
+admin:destroy test
+config:list
+config:proplist
+config:propset
+config:update
+display-exception
+m388636
+

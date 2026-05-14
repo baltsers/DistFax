@@ -1,0 +1,3 @@
+HELP;
+show procedures in syscs_util;
+

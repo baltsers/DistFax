@@ -1,0 +1,7 @@
+admin:list
+admin:create --help
+config:edit foo.bar
+config:proplist
+config:update
+codpu226
+

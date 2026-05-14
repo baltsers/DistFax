@@ -1,0 +1,7 @@
+admin:list
+config:edit foo.bar
+config:list
+config:propset
+config:update
+display-exception
+

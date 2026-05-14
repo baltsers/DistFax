@@ -1,0 +1,4 @@
+config:edit foo.bar
+config:list
+eyulnfjs
+

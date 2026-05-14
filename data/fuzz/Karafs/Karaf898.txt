@@ -1,0 +1,3 @@
+admin:list
+config:edit foo.bar
+

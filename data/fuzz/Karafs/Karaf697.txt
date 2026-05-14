@@ -1,0 +1,5 @@
+admin:destroy test
+config:proplist
+config:update
+���A��а
+

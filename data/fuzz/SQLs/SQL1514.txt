@@ -1,0 +1,5 @@
+HELP;
+show roles;
+show enabled_roles;
+show synonyms;
+

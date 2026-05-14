@@ -1,0 +1,7 @@
+HELP;
+show connections;
+show roles;
+show settable_roles;
+69
+�PF<e
+

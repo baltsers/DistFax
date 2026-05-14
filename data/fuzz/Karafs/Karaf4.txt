@@ -1,0 +1,4 @@
+admin:list
+config:list
+config:propset
+

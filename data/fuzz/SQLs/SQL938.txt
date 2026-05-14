@@ -1,0 +1,5 @@
+show connections;
+show settable_roles;
+show schemas;
+show synonyms;
+

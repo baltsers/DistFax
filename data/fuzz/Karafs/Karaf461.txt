@@ -1,0 +1,7 @@
+admin:list
+config:edit foo.bar
+config:list
+config:update
+display-exception
+qgep28693566
+

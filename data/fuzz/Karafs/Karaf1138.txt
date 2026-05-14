@@ -1,0 +1,3 @@
+admin:destroy test
+peokpcby3398874
+

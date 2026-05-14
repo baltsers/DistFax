@@ -1,0 +1,6 @@
+admin:destroy test
+config:propset
+config:update
+95
+�,Qm;
+

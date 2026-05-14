@@ -1,0 +1,6 @@
+HELP;
+show connections;
+show settable_roles;
+show synonyms;
+qkxuto93707
+

@@ -1,0 +1,5 @@
+ls /zk-temp
+get /zk-temp
+stat /zk-temp
+ro2581199
+

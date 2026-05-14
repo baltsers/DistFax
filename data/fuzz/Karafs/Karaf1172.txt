@@ -1,0 +1,6 @@
+admin:destroy test
+admin:create --help
+config:propset
+config:update
+display-exception
+

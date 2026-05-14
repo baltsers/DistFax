@@ -1,0 +1,4 @@
+HELP;
+show connections;
+9461
+

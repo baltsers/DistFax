@@ -1,0 +1,7 @@
+get 'hello2'
+getall 'hello'
+getall 'hello2'
+getall 'hello' 'hello2'
+getmetadata
+.qk*0���g
+

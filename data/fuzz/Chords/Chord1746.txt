@@ -1,0 +1,7 @@
+create -names mypeer1_mypeer2 -bootstraps mypeer0
+refsN
+leaveN
+retrieveN -key test
+zobmc14983408
+9�0/�
+

@@ -1,0 +1,6 @@
+admin:destroy test
+config:edit foo.bar
+config:update
+display-exception
+rqmaycyb5127881
+

@@ -1,0 +1,1 @@
+72730 minus -3 add 42 add -39 multi 25 multi -5 add -20

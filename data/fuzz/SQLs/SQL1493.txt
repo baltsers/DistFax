@@ -1,0 +1,3 @@
+show schemas;
+vbwqyu701983
+

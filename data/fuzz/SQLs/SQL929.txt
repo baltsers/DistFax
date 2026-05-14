@@ -1,0 +1,6 @@
+show indexes from firsttable;
+show procedures in syscs_util;
+show roles;
+show synonyms;
+�`�k`F��
+

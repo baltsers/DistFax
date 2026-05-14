@@ -1,0 +1,4 @@
+HELP;
+show indexes from firsttable;
+show synonyms;
+

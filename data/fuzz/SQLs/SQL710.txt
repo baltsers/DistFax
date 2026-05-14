@@ -1,0 +1,4 @@
+show roles;
+show schemas;
+show synonyms;
+

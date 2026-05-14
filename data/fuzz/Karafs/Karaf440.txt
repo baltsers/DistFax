@@ -1,0 +1,5 @@
+admin:destroy test
+admin:list
+config:edit foo.bar
+�
+

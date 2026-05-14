@@ -1,0 +1,5 @@
+HELP;
+show connections;
+show schemas;
+�ȧt��
+

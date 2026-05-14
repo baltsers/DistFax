@@ -1,0 +1,4 @@
+get 'hello2'
+getall 'hello2'
+getall 'hello' 'hello2'
+

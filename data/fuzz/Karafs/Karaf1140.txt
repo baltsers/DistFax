@@ -1,0 +1,5 @@
+config:edit foo.bar
+display-exception
+ctrtcfe821
+tI
+

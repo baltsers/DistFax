@@ -1,0 +1,8 @@
+HELP;
+show connections;
+show procedures in syscs_util;
+show roles;
+show settable_roles;
+show synonyms;
+bunjhku98
+
